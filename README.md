@@ -3,7 +3,7 @@
 I'm Sébastien.
 
 - 📫 How to reach me: Use the public e-mail provided on Github. I'm keeping my information current.
-- 🔭 I’m currently working on contributing more to open source. I started by contributing a bug fix to the hibernate/orm project.
+
   
 <!--
 **santschi/santschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
